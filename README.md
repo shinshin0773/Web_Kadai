@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋 Fruit EC site</h1>
+<h1 align="center">Hi 👋 Multi EC site</h1>
 <h3 align="center">マルチログイン機能を持ったECサイトです</h3>
 
 - 👨‍💻 機能一覧 ログイン機能・新規登録機能・購入機能・出品機能
